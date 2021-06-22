@@ -15,9 +15,10 @@ Simply:
 
 #### 1. Fake or True News Project Using Naive Bayes Classifier
 
-Dataset can be downloaded from Kaggle using this link [link ](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset/code)
+Dataset can be downloaded from Kaggle using this [link ](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset/code)
 
 
-#### Project Goal: 
-
-Use data set to make an algorithm able to determine if an article is fake news or not ?
+	**Project Goal:** 
+		Use data set to make an algorithm able to determine if an article is fake news or not ?
+		
+#### 2. Language Identifier 
